@@ -37,7 +37,9 @@ I don't trust anyone. Not even myself.
 Remember. The network is alive. Petoron is alive. I'm here. I am with you.
 
 ./setup_all.sh # For new network members (initial setup)
+
 export PETH_ROLE=server # This command is required ONLY for VPS nodes (to add to peer-to-peer networks)
+
 ./run_all.sh # Start a Petoron network node.
 
 Welcome!
